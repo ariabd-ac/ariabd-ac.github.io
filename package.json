@@ -1,7 +1,6 @@
 {
   "name": "final",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@primer/octicons-react": "^10.0.0",
     "@testing-library/jest-dom": "^4.2.4",
